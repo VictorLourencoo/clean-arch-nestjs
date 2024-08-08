@@ -29,3 +29,4 @@ O projeto foi desenvolvido com base em **Clean Architecture**, separando respons
 1. Clone o repositório:
    ```bash
    git clone https://github.com/usuario/repository-name.git
+   ```
